@@ -1,0 +1,19 @@
+.p1{
+    text-align: center;
+    font-family: "Helvetica";
+    font-size:1rem;
+    color: #dce3e3;
+    overflow-wrap: break-word;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.body1 h3{
+    margin: 1.5rem;
+    color: #e9eef7;
+}
+.bodyHr{
+    width : 30%;
+    border: 1px solid #f7f3f2;
+    border-radius: 3px;
+}

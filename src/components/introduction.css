@@ -1,0 +1,11 @@
+.introduction{background-color: white; margin-top: 3rem;margin-bottom: 3rem;transition: .5s;}
+.introduction:hover{background-color: #f7f3f2;
+    -webkit-box-shadow: 3px -2px 3px -1px rgba(163,140,163,0.36);
+    -moz-box-shadow: 3px -2px 3px -1px rgba(163,140,163,0.36);
+    box-shadow: 3px -2px 3px -1px rgba(163,140,163,0.36);
+}
+.introduction p{color: #4c4a37; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; line-height: 32px; margin: 0 0 24px;}
+.header1{ color: #052939; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; }
+.header2{margin-bottom: 1rem;}
+
+

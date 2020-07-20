@@ -1,0 +1,17 @@
+.card-body p{
+    float: left;
+}
+li.list-group-item{
+    font-size: 1rem;
+}
+.stageButton{
+    width: 100%;
+    background-color: #7a2f31 !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.8rem;
+}
+.stageCaption{
+    margin-left: auto;
+}
+div.stageBlock{margin-bottom: 3rem;}

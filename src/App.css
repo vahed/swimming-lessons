@@ -1,38 +1,97 @@
-.App {
-  text-align: center;
+.grid-container {
+    display: grid;
+    grid-gap: 0px;
+    /*background-color: #2196F3;*/
+    padding: 5px;
+    /*width: 100vw;  /* will stretch to the full width */
+    /*height: 100vh; /* and height of the device. */
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+            "item1 item1 item1 item1 item1 item1"
+            "item2 item3 item3 item3 item3 item4"
+            "item5 item6 item6 item6 item6 item7"
+            "item8 item9 item9 item9 item9 item10"
+            "item11 item11 item11 item12 item12 item12"
+            "item13 item14 item14 item14 item14 item15"
+            "item16 item16 item16 item16 item16 item16";
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
 }
+.grid-item.item5{background-color: #429696;}
+.grid-item.item6{background-color: #429696;}
+.grid-item.item7{background-color: #429696;}
+.grid-item.item14{background-color: tan;}
+/*.body1{background-color: #429696;}*/
+.item1{grid-area: item1;background-color: white;}
+.item2{grid-area: item2;}
+.item3{grid-area: item3;}
+.item4{grid-area: item4;}
+.item5{grid-area: item5;}
+.item6{grid-area: item6;}
+.item7{grid-area: item7;}
+.item8{grid-area: item8;}
+.item9{grid-area: item9;}
+.item10{grid-area: item10;}
+.item11{grid-area: item11;}
+.item12{grid-area: item12;}
+.item13{grid-area: item13;}
+.item14{grid-area: item14;}
+.item15{grid-area: item15;}
+.item16{grid-area: item16;}
+.carousel{width: 100% !important;}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.item8,.item9,.item10{
+    background-color: #7a2f31;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.card{
+    margin-bottom: 3rem;
 }
-
-.App-link {
-  color: #61dafb;
+button.stageButton.btn.btn-primary{
+    background-color: #fcedd8 !important;
+    color: saddlebrown;
+    border-color: white !important;
+    margin-bottom: 2rem !important;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button.stageButton.btn.btn-primary:focus {
+    color: #7a2f31;
+    background-color: #FFEBCD !important;/* #FFEBCD*/
+    border-color: antiquewhite !important;
+    box-shadow: 0 0 0 0.2rem rgba(38,143,255,.5);
+}
+button.stageButton.btn.btn-primary:hover {
+    color: #efa032;
+    background-color: #FFEBCD !important;
+    border-color: antiquewhite !important;
+}
+.list-group-item{
+    background-color: #7a2f31 !important;
+}
+.list-group-item p{
+    color: white;
+    font-family: 'Clarkson',Helvetica,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em;
+    letter-spacing: 0;
+    text-rendering: geometricPrecision;
+    text-transform: none;
+    text-decoration: none;
+    font-size: 13px;
+    -webkit-font-smoothing: antialiased;
+}
+.stage{
+    color: #e9eef7;
+    font-weight: bold;
+}
+.stageBlock{
+    font-family: "Apple Braille";
+    margin-top: 2rem;
+    color: #f7f3f2;
+}
+.card-body{
+    background-color: #fcedd8;
 }

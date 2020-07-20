@@ -1,0 +1,14 @@
+.imageCrossFade p{
+    text-align: center;
+    font-family: "Helvetica";
+    font-size:1rem;
+    color: #dce3e3;
+    overflow-wrap: break-word;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imageCrossFade h3{
+    margin: 1rem;
+    color: #e9eef7;
+}
