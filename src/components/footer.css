@@ -1,0 +1,25 @@
+
+.main-footer h3{
+    font-family: "Apple Braille" !important;
+    color: #fcedd8 !important;
+    margin-top: 2rem;
+}
+.inst{color: inherit;}
+.facebk{color: inherit;}
+.main-footer .footer-phone, .inst, .facebk{
+    text-align: left !important;
+}
+.footer-phone{
+    font-size: 30px;
+    font-family: margin-top;
+    color: #fcedd8;
+    margin-left: 1rem;
+}
+@media screen and (max-width: 500px) {
+    div.main-footer h3{
+        font-size: 20px;
+    }
+    span.footer-phone{
+        font-size: 20px;
+    }
+}

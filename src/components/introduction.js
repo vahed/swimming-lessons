@@ -4,7 +4,7 @@ import "./introduction.css";
 const Introduction = () => {
     return (
         <div className="introduction">
-            <h1 className="header1">WELCOME TO GESS</h1><br/>
+            <h1 className="header1">WELCOME TO GESS</h1>
             <p>All sessions are open to all pupils with the focus on individual progress, whatever the swimmers aspirations.
                 There are boys and girls swimming classes in all age groups,whether your children are beginners or you're
                 wanting to build their confidence, we cater for all levels of ability and will help them progress in the

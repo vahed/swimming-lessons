@@ -12,3 +12,13 @@
     margin: 1rem;
     color: #e9eef7;
 }
+@media screen and (max-width: 500px) {
+    .imageCrossFade p{
+        text-align: justify;
+        font-size: 12px;
+    }
+    .imageCrossFade h3{
+        margin: auto;
+        color: #e9eef7;
+    }
+}

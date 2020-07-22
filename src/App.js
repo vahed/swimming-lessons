@@ -12,6 +12,8 @@ import WebNavbar from "./components/Navbar";
 import Stage from "./components/stage";
 import ImageCrossFade from "./components/imageData";
 import Introduction from "./components/introduction";
+import { MDBIcon } from "mdbreact";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -33,6 +35,10 @@ function App() {
         <div className="grid-item item14">14</div>
         <div className="grid-item item15">15</div>
         <div className="grid-item item16">16</div>
+        <div className="grid-item item17">
+            <Footer/>
+        </div>
+        <div className="grid-item item18">18</div>
     </div>
   );
 }
