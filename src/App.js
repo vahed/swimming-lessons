@@ -14,6 +14,8 @@ import ImageCrossFade from "./components/imageData";
 import Introduction from "./components/introduction";
 import { MDBIcon } from "mdbreact";
 import Footer from "./components/footer";
+import Map from './components/map';
+import ContactForm from "./components/contactForm";
 
 function App() {
   return (
@@ -30,15 +32,21 @@ function App() {
         <div className="grid-item item10"></div>
         <div className="grid-item item11"><ImageCrossFade />
         </div>
-        <div className="grid-item item12">12</div>
-        <div className="grid-item item13">13</div>
-        <div className="grid-item item14">14</div>
-        <div className="grid-item item15">15</div>
-        <div className="grid-item item16">16</div>
-        <div className="grid-item item17">
+        <div className="grid-item item12"></div>
+        <div className="grid-item item13"></div>
+        <div className="grid-item item14"></div>
+        <div className="grid-item item15"></div>
+        <div className="grid-item item16"></div>
+        <div className="grid-item item17"><ContactForm/></div>
+        <div className="grid-item item18"></div>
+        <div className="grid-item item19">
+              <Map/>
+        </div>
+        <div className="grid-item item20"></div>
+        <div className="grid-item item21">
             <Footer/>
         </div>
-        <div className="grid-item item18">18</div>
+        <div className="grid-item item22"></div>
     </div>
   );
 }

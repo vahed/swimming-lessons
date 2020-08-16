@@ -13,7 +13,9 @@
             "item8 item9 item9 item9 item9 item10"
             "item11 item11 item11 item12 item12 item12"
             "item13 item14 item14 item14 item14 item15"
-            "item16 item17 item17 item17 item17 item18";
+            "item16 item17 item17 item17 item17 item18"
+            "item19 item19 item19 item19 item19 item19"
+            "item20 item21 item21 item21 item21 item22";
 }
 @media (min-width: 500px) {
     .item17{
@@ -31,7 +33,7 @@
 .grid-item.item6{background-color: #429696;}
 .grid-item.item7{background-color: #429696;}
 .grid-item.item14{background-color: tan;}
-.grid-item.item16,.item17,.item18{background-color: #0074D9;}
+.grid-item.item20,.item21,.item22{background-color: #0074D9;}
 /*.body1{background-color: #429696;}*/
 .item1{grid-area: item1;background-color: white;}
 .item2{grid-area: item2;}
@@ -49,8 +51,12 @@
 .item14{grid-area: item14;}
 .item15{grid-area: item15;}
 .item16{grid-area: item16;}
-.item17{grid-area: item17;align-items: start;/* to leign items in the left with flexbox */}
-.item18{grid-area: item18;}
+.item17{grid-area: item17;}
+.item18{grid-area: item18;align-items: start;/* to leign items in the left with flexbox */}
+.item19{grid-area: item19;}
+.item20{grid-area: item20;}
+.item21{grid-area: item21;}
+.item22{grid-area: item22;}
 .carousel{width: 100% !important;}
 
 .item8,.item9,.item10{
