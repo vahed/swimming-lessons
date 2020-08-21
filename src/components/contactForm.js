@@ -17,26 +17,26 @@ const ContactForm = () => {
                                     <MDBIcon icon="envelope" /> Email Us:
                                 </h3>
                             </MDBCardHeader>
-                            <form name="contact" action="POST" netlify >
+                            <form name="contact" action="POST" data-netlify="true">
                                 <label htmlFor="defaultFormContactNameEx" className="grey-text">
                                     Your name
                                 </label>
-                                <input type="text" id="defaultFormContactNameEx" className="form-control" name="name" placeholder="Type full name"/>
+                                <input type="text" id="defaultFormContactNameEx" className="form-control" name="name" placeholder="Type full name" required />
                                 <br />
                                 <label htmlFor="defaultFormContactEmailEx" className="grey-text">
                                     Your email
                                 </label>
-                                <input type="email" id="defaultFormContactEmailEx" className="form-control" name="email" placeholder="yourEmail@yahoo.com"/>
+                                <input type="email" id="defaultFormContactEmailEx" className="form-control" name="email" placeholder="yourEmail@yahoo.com" required/>
                                 <br />
                                 <label htmlFor="defaultFormContactSubjectEx" className="grey-text">
-                                    Subject
+                                    Phone number
                                 </label>
-                                <input type="text" id="defaultFormContactSubjectEx" className="form-control" name="subject" placeholder="Type subject"/>
+                                <input type="tel" id="defaultFormContactPhoneEx" className="form-control" name="phone" placeholder="Your phone" required/>
                                 <br />
                                 <label htmlFor="defaultFormContactMessageEx" className="grey-text">
                                     Your message
                                 </label>
-                                <textarea type="text" id="defaultFormContactMessageEx" className="form-control" rows="3" name="message" placeholder="Type message"/>
+                                <textarea type="text" id="defaultFormContactMessageEx" className="form-control" rows="3" name="message" placeholder="Type message" required/>
                                 <div className="text-center mt-4">
                                     <MDBBtn className="formBtn" color="warning" outline type="submit">
                                         Send
