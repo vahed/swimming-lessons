@@ -17,7 +17,7 @@ const ContactForm = () => {
                                     <MDBIcon icon="envelope" /> Email Us:
                                 </h3>
                             </MDBCardHeader>
-                            <form action="POST" data-netlify="true">
+                            <form name="contact" action="POST" data-netlify="true">
                                 <label htmlFor="defaultFormContactNameEx" className="grey-text">
                                     Your name
                                 </label>
@@ -26,7 +26,7 @@ const ContactForm = () => {
                                 <label htmlFor="defaultFormContactEmailEx" className="grey-text">
                                     Your email
                                 </label>
-                                <input type="email" id="defaultFormContactEmailEx" className="form-control" name="email" placeholder="MyEmail@yahoo.com"/>
+                                <input type="email" id="defaultFormContactEmailEx" className="form-control" name="email" placeholder="yourEmail@yahoo.com"/>
                                 <br />
                                 <label htmlFor="defaultFormContactSubjectEx" className="grey-text">
                                     Subject
