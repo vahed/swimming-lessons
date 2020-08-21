@@ -2,8 +2,6 @@ import React from 'react';
 import './App.css';
 import ImageCarousel from "./components/carousel";
 import Body from "./components/body";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 /* MDB icons to run */
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'mdbreact/dist/css/mdb.css';
@@ -12,7 +10,7 @@ import WebNavbar from "./components/Navbar";
 import Stage from "./components/stage";
 import ImageCrossFade from "./components/imageData";
 import Introduction from "./components/introduction";
-import { MDBIcon } from "mdbreact";
+//import { MDBIcon } from "mdbreact";
 import Footer from "./components/footer";
 import Map from './components/map';
 import ContactForm from "./components/contactForm";

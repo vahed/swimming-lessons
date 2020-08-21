@@ -9,7 +9,7 @@ import { MDBIcon } from "mdbreact";
 
 const Stage = () => {
     const [isOpen, setIsOpen] = useState(false);
-    const [getStage, setStage] = useState('');
+    /*const [getStage, setStage] = useState('');*/
     const toggle = () => setIsOpen(!isOpen);
 
     return (

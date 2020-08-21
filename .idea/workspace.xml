@@ -24,8 +24,11 @@
   <component name="ChangeListManager">
     <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App">
       <changelist_data name="vahed-dwell" email="59022473+vahed-dwell@users.noreply.github.com" />
-      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/imageData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/imageData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/stage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/stage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +132,8 @@
       <workItem from="1596106941331" duration="2594000" />
       <workItem from="1596126562801" duration="355000" />
       <workItem from="1596184087813" duration="10485000" />
-      <workItem from="1597582951898" duration="7547000" />
+      <workItem from="1597582951898" duration="7796000" />
+      <workItem from="1598006046193" duration="1982000" />
     </task>
     <servers />
   </component>

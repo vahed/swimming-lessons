@@ -7,12 +7,12 @@ import {
     NavbarBrand,
     Nav,
     NavItem,
-    NavLink,
-    UncontrolledDropdown,
+    NavLink
+    /*UncontrolledDropdown,
     DropdownToggle,
     DropdownMenu,
     DropdownItem,
-    NavbarText
+    NavbarText*/
 } from 'reactstrap';
 
 const WebNavbar = (props) => {
