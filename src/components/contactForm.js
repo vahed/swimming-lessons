@@ -17,7 +17,7 @@ const ContactForm = () => {
                                     <MDBIcon icon="envelope" /> Email Us:
                                 </h3>
                             </MDBCardHeader>
-                            <form name="contact" data-netlify="true">
+                            <form name="contact" data-netlify="true" onSubmit="submit">
                             <input type="hidden" name="form-name" value="contact" />
                                 <label htmlFor="defaultFormContactNameEx" className="grey-text">
                                     Your name
