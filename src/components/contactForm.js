@@ -17,7 +17,7 @@ const ContactForm = () => {
                                     <MDBIcon icon="envelope" /> Email Us:
                                 </h3>
                             </MDBCardHeader>
-                            <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+                            <form name="contact" method="post" data-netlify="true" >
                             {/* You still need to add the hidden input with the form name to your JSX form */
                             <input type="hidden" name="form-name" value="contact" />
                                 <label htmlFor="defaultFormContactNameEx" className="grey-text">
