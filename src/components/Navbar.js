@@ -39,6 +39,9 @@ const WebNavbar = (props) => {
                         <NavItem>
                             <NavLink href="">Location</NavLink>
                         </NavItem>
+                        <NavItem>
+                            <NavLink href="https://forms.app/gesschool/gess-registeration-form">Register</NavLink>
+                        </NavItem>
                     </Nav>
                 </Collapse>
             </Navbar>
