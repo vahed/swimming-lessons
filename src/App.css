@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 .grid-container {
     display: grid;
     grid-gap: 0px;
@@ -8,14 +11,14 @@
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-areas:
             "item1 item1 item1 item1 item1 item1"
-            "item2 item3 item3 item3 item3 item4"
-            "item5 item6 item6 item6 item6 item7"
-            "item8 item9 item9 item9 item9 item10"
-            "item11 item11 item11 item12 item12 item12"
-            "item13 item14 item14 item14 item14 item15"
-            "item16 item17 item17 item17 item17 item18"
-            "item19 item19 item19 item19 item19 item19"
-            "item20 item21 item21 item21 item21 item22";
+            "item2 item2 item2 item2 item2 item2"
+            "item3 item4 item4 item4 item4 item5"
+            "item6 item7 item7 item7 item7 item8"
+            "item9 item10 item10 item10 item10 item11"
+            "item12 item12 item12 item13 item13 item13"
+            "item14 item15 item15 item15 item15 item16"
+            "item17 item17 item17 item17 item17 item17"
+            "item18 item19 item19 item19 item19 item20"
 }
 @media (min-width: 500px) {
     .item17{
@@ -29,11 +32,11 @@
     padding: 10px;
     font-size: 30px;
 }
-.grid-item.item5{background-color: #429696;}
+.grid-item.item8{background-color: #429696;}
 .grid-item.item6{background-color: #429696;}
 .grid-item.item7{background-color: #429696;}
-.grid-item.item14{background-color: tan;}
-.grid-item.item20,.item21,.item22{background-color: #0074D9;}
+/*.grid-item.item14{background-color: tan;}*/
+.grid-item.item18,.item19,.item20{background-color: #0074D9;}
 /*.body1{background-color: #429696;}*/
 .item1{grid-area: item1;background-color: white;}
 .item2{grid-area: item2;}
@@ -57,9 +60,10 @@
 .item20{grid-area: item20;}
 .item21{grid-area: item21;}
 .item22{grid-area: item22;}
+.item23{grid-area: item23;}
 .carousel{width: 100% !important;}
 
-.item8,.item9,.item10{
+.item8,.item9,.item10,.item11{
     background-color: #7a2f31;
 }
 .item12{background-color:  #4D6060;}

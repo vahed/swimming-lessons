@@ -24,8 +24,12 @@
   <component name="ChangeListManager">
     <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App">
       <changelist_data name="vahed-dwell" email="59022473+vahed-dwell@users.noreply.github.com" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/contactForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contactForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +69,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ePW7cNaq4dOGFsEiP3xcDARP14" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -87,7 +92,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="js.build_tools.grunt">
@@ -131,7 +136,12 @@
       <workItem from="1596184087813" duration="10485000" />
       <workItem from="1597582951898" duration="7796000" />
       <workItem from="1598006046193" duration="1982000" />
-      <workItem from="1598009227917" duration="6911000" />
+      <workItem from="1598009227917" duration="7923000" />
+      <workItem from="1598044726599" duration="498000" />
+      <workItem from="1598796493926" duration="2173000" />
+      <workItem from="1599044311916" duration="16320000" />
+      <workItem from="1599123114719" duration="9466000" />
+      <workItem from="1599297084073" duration="1088000" />
     </task>
     <servers />
   </component>
@@ -207,10 +217,11 @@
     </state>
     <state width="972" height="287" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1596216485748" />
     <state width="972" height="287" key="GridCell.Tab.0.right/0.23.2048.1049@0.23.2048.1049" timestamp="1596191652621" />
-    <state x="980" y="113" key="SettingsEditor" timestamp="1595427996193">
+    <state x="980" y="113" key="SettingsEditor" timestamp="1599125950809">
       <screen x="0" y="23" width="2048" height="1049" />
     </state>
-    <state x="980" y="113" key="SettingsEditor/0.23.2048.1049@0.23.2048.1049" timestamp="1595427996193" />
+    <state x="980" y="99" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1599048525579" />
+    <state x="980" y="113" key="SettingsEditor/0.23.2048.1049@0.23.2048.1049" timestamp="1599125950809" />
     <state x="1122" y="290" key="Vcs.Push.Dialog.v2" timestamp="1597595661358">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
