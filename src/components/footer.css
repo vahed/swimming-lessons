@@ -15,6 +15,10 @@
     color: #fcedd8;
     margin-left: 1rem;
 }
+i.fab.fa-instagram.inst.p-2,i.fab.fa-facebook-square{
+    color:#111;
+}
+
 @media screen and (max-width: 500px) {
     div.main-footer h3{
         font-size: 20px;

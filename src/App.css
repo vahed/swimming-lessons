@@ -4,10 +4,7 @@ html {
 .grid-container {
     display: grid;
     grid-gap: 0px;
-    /*background-color: #2196F3;*/
     padding: 5px;
-    /*width: 100vw;  /* will stretch to the full width */
-    /*height: 100vh; /* and height of the device. */
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-areas:
             "item1 item1 item1 item1 item1 item1"
@@ -35,9 +32,7 @@ html {
 .grid-item.item8{background-color: #429696;}
 .grid-item.item6{background-color: #429696;}
 .grid-item.item7{background-color: #429696;}
-/*.grid-item.item14{background-color: tan;}*/
 .grid-item.item18,.item19,.item20{background-color: #0074D9;}
-/*.body1{background-color: #429696;}*/
 .item1{grid-area: item1;background-color: white;}
 .item2{grid-area: item2;}
 .item3{grid-area: item3;}

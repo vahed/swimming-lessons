@@ -22,15 +22,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App">
-      <changelist_data name="vahed-dwell" email="59022473+vahed-dwell@users.noreply.github.com" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contactForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contactForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
-    </list>
+    <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +86,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="js.build_tools.grunt">
       <node-interpreter value="project" />
@@ -142,7 +139,18 @@
       <workItem from="1599044311916" duration="16320000" />
       <workItem from="1599123114719" duration="9466000" />
       <workItem from="1599297084073" duration="1088000" />
+      <workItem from="1599299895076" duration="2777000" />
+      <workItem from="1599491306301" duration="576000" />
+      <workItem from="1600257014434" duration="10859000" />
     </task>
+    <task id="LOCAL-00001" summary="Initialize project using Create React App">
+      <created>1599300191429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599300191430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,11 +225,11 @@
     </state>
     <state width="972" height="287" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1596216485748" />
     <state width="972" height="287" key="GridCell.Tab.0.right/0.23.2048.1049@0.23.2048.1049" timestamp="1596191652621" />
-    <state x="980" y="113" key="SettingsEditor" timestamp="1599125950809">
+    <state x="980" y="113" key="SettingsEditor" timestamp="1600257871696">
       <screen x="0" y="23" width="2048" height="1049" />
     </state>
     <state x="980" y="99" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1599048525579" />
-    <state x="980" y="113" key="SettingsEditor/0.23.2048.1049@0.23.2048.1049" timestamp="1599125950809" />
+    <state x="980" y="113" key="SettingsEditor/0.23.2048.1049@0.23.2048.1049" timestamp="1600257871696" />
     <state x="1122" y="290" key="Vcs.Push.Dialog.v2" timestamp="1597595661358">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -235,6 +243,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="1329" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1152@0.0.2048.1152" timestamp="1598032227925" />
+    <state x="722" y="208" width="604" height="735" key="find.popup" timestamp="1600264603788">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="722" y="208" width="604" height="735" key="find.popup/0.0.2048.1152@0.0.2048.1152" timestamp="1600264603788" />
     <state x="1010" y="267" key="git4idea.branch.GitSmartOperationDialog" timestamp="1595428100003">
       <screen x="0" y="23" width="2048" height="1049" />
     </state>

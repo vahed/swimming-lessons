@@ -17,3 +17,14 @@
     border: 1px solid #f7f3f2;
     border-radius: 3px;
 }
+div.card-title{font-size: 12px; font-weight: bold;color: #0f6674;}
+p.card-text{font-size: 10px;}
+button.btn.btn-secondary a{color: white;}
+.row1,.row2{margin-top: 3rem;}
+@media screen and (max-width: 500px) {
+    .card-body p {
+        text-align: justify;
+        font-size: 12px;
+        text-align: center !important;
+    }
+}

@@ -22,3 +22,15 @@ div.stageBlock{margin-bottom: 3rem;}
         font-size: 12px;
     }
 }
+.jumbotron {
+    background-color: #fcedd8 !important;
+}
+.h1_stg,.p1_stg{
+    color: #3e4551;
+}
+.p1_stg{
+    font-size: 16px;
+}
+.h1_stg{
+    margin-bottom: 2rem;
+}

@@ -31,7 +31,7 @@ function App() {
         <div className="grid-item item9"></div>
             <div className="grid-item item10"><span id="stg"><Stage /></span></div>
         <div className="grid-item item11"></div>
-            <div className="grid-item item12"><ImageCrossFade /></div>
+            <div className="grid-item item12"></div>
         <div className="grid-item item13"></div>
         <div className="grid-item item14"></div>
             <div className="grid-item item15"><span id="cform"><ContactForm/></span></div>

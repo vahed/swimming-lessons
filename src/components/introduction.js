@@ -3,6 +3,7 @@ import "./introduction.css";
 
 const Introduction = () => {
     return (
+
         <div className="introduction">
             <h1 className="header1">WELCOME TO GESS</h1>
             <p>All sessions are open to all pupils with the focus on individual progress, whatever the swimmers aspirations.
@@ -28,6 +29,7 @@ const Introduction = () => {
                 Swim Swedish Learn to Swim Programme. And their primary concern is to make the time in the water
                 special and enjoyable for everyone, trying to make swimming time the highlight of the week.</p>
         </div>
+
     );
 };
 

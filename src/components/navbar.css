@@ -6,40 +6,11 @@
 .navbar-light .navbar-nav .nav-link {
     color: azure !important;
 }
-/*.navbar-light .navbar-brand {
-    color: #7c795d; font-family: 'Trocchi', serif; font-size: 32px; font-weight: normal; line-height: 30px; margin: 0;
-}*/
-
-.navbar-light .navbar-brand {
-    font-size: 1.1rem;
-    text-align: center;
-    height:2vh;
-    line-height: 0vh;
-    color: #fcedd8;
-    /*background: #d52e3f;*/
-    font-family: 'Niconne', cursive;
-    font-weight: 100;
-    text-shadow: 2px 2px 0px,
-    1px 1px 0px #efa032,
-    2px 2px 0px #46b59b,
-    3px 3px 0px #017e7f,
-    4px 4px 0px #052939,
-    5px 5px 0px #c11a2b;
-    /*6px 6px 0px #c11a2b,
-    7px 7px 0px #c11a2b,
-    /*8px 8px 0px #c11a2b;*/
+.logo{
+    margin-bottom: 20px;
 }
 
-/*p{
-    text-align: center;
-    font-family: "Helvetica";
-    font-size:1.3rem;
+.is-active{
+    font-style: oblique;
+    color: yellow;
 }
-
-a{
-    color: #d52e3f;
-    text-decoration: none;
-    font-family: 'Niconne', cursive;
-    font-size: 1.2rem;
-
-}*/
