@@ -23,7 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/contactForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contactForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,11 +237,11 @@
     </state>
     <state x="980" y="99" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1599048525579" />
     <state x="980" y="113" key="SettingsEditor/0.23.2048.1049@0.23.2048.1049" timestamp="1600257871696" />
-    <state x="1122" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600444665313">
+    <state x="1122" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600449745868">
       <screen x="0" y="23" width="2048" height="1049" />
     </state>
     <state x="1122" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1597595661358" />
-    <state x="1122" y="287" key="Vcs.Push.Dialog.v2/0.23.2048.1049@0.23.2048.1049" timestamp="1600444665313" />
+    <state x="1122" y="287" key="Vcs.Push.Dialog.v2/0.23.2048.1049@0.23.2048.1049" timestamp="1600449745868" />
     <state x="1270" y="141" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594411129255">
       <screen x="0" y="23" width="2048" height="1049" />
     </state>
