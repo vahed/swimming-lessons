@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/contactForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contactForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
         <option value="vahed-dwell &lt;59022473+vahed-dwell@users.noreply.github.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/components" />
   </component>
   <component name="ProjectId" id="1ePW7cNaq4dOGFsEiP3xcDARP14" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

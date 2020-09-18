@@ -26,6 +26,7 @@ div.stageBlock{margin-bottom: 3rem;}
     background-color: #fcedd8 !important;
 }
 .h1_stg,.p1_stg{
+    text-align: justify;
     color: #3e4551;
 }
 .p1_stg{

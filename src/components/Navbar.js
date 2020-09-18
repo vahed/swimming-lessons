@@ -29,7 +29,6 @@ const WebNavbar = (props) => {
                 <NavbarBrand href="/"><img src={logo} width="50" height="50" className="logo" /></NavbarBrand>
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>
-<<<<<<< HEAD
                     <Router>
                         <Nav className="mr-auto" navbar>
                             <NavItem>
@@ -52,26 +51,7 @@ const WebNavbar = (props) => {
                             </NavItem>
                         </Nav>
                     </Router>
-=======
 
-                    <Nav className="mr-auto" navbar>
-                        <NavItem>
-                            <NavLink href="">About</NavLink>
-                        </NavItem>
-                        <NavItem>
-                            <NavLink href="">Instructors</NavLink>
-                        </NavItem>
-                        <NavItem>
-                            <NavLink href="">Classes</NavLink>
-                        </NavItem>
-                        <NavItem>
-                            <NavLink href="">Location</NavLink>
-                        </NavItem>
-                        <NavItem>
-                            <NavLink href="https://forms.app/gesschool/gess-registeration-form">Register</NavLink>
-                        </NavItem>
-                    </Nav>
->>>>>>> 84b0ce83a8d21cbe8b5fa9bcfd8e2fc99a02fd44
                 </Collapse>
             </Navbar>
     );
