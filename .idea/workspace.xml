@@ -22,7 +22,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App" />
+    <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contactForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contactForm.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,6 +145,7 @@
       <workItem from="1599299895076" duration="2777000" />
       <workItem from="1599491306301" duration="576000" />
       <workItem from="1600257014434" duration="10859000" />
+      <workItem from="1600443179289" duration="2420000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <created>1599300191429</created>
@@ -225,24 +229,29 @@
     </state>
     <state width="972" height="287" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1596216485748" />
     <state width="972" height="287" key="GridCell.Tab.0.right/0.23.2048.1049@0.23.2048.1049" timestamp="1596191652621" />
+    <state x="1178" y="316" key="MultipleFileMergeDialog" timestamp="1600444627327">
+      <screen x="0" y="23" width="2048" height="1049" />
+    </state>
+    <state x="1178" y="316" key="MultipleFileMergeDialog/0.23.2048.1049@0.23.2048.1049" timestamp="1600444627327" />
     <state x="980" y="113" key="SettingsEditor" timestamp="1600257871696">
       <screen x="0" y="23" width="2048" height="1049" />
     </state>
     <state x="980" y="99" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1599048525579" />
     <state x="980" y="113" key="SettingsEditor/0.23.2048.1049@0.23.2048.1049" timestamp="1600257871696" />
-    <state x="1122" y="290" key="Vcs.Push.Dialog.v2" timestamp="1597595661358">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state x="1122" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600444665313">
+      <screen x="0" y="23" width="2048" height="1049" />
     </state>
     <state x="1122" y="290" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1597595661358" />
-    <state x="1122" y="287" key="Vcs.Push.Dialog.v2/0.23.2048.1049@0.23.2048.1049" timestamp="1595428121371" />
+    <state x="1122" y="287" key="Vcs.Push.Dialog.v2/0.23.2048.1049@0.23.2048.1049" timestamp="1600444665313" />
     <state x="1270" y="141" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594411129255">
       <screen x="0" y="23" width="2048" height="1049" />
     </state>
     <state x="1270" y="141" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2048.1049@0.23.2048.1049" timestamp="1594411129255" />
-    <state x="1329" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598032227925">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state x="1329" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600444608962">
+      <screen x="0" y="23" width="2048" height="1049" />
     </state>
     <state x="1329" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1152@0.0.2048.1152" timestamp="1598032227925" />
+    <state x="1329" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2048.1049@0.23.2048.1049" timestamp="1600444608962" />
     <state x="722" y="208" width="604" height="735" key="find.popup" timestamp="1600264603788">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>

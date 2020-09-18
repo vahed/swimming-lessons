@@ -18,7 +18,11 @@ const ContactForm = () => {
                                     <MDBIcon icon="envelope" /> Email Us:
                                 </h3>
                             </MDBCardHeader>
+<<<<<<< HEAD
                             <form name="contact" netlify>
+=======
+                            <form name="contact" method="post" data-netlify="true" 
+>>>>>>> 84b0ce83a8d21cbe8b5fa9bcfd8e2fc99a02fd44
                                 <label htmlFor="defaultFormContactNameEx" className="grey-text">
                                     Your name
                                 </label>
