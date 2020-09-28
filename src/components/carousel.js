@@ -13,7 +13,7 @@ const items = [
         id: 1,
         src: require("../images/swim23.jpg"),
         altText: 'Slide 1',
-        caption: 'Choose The Class Which is Suitable For You'
+        caption: 'GUESS programme will boost your children\'s confidence'
     },
     {
         id: 2,

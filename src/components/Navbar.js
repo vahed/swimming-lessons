@@ -32,7 +32,7 @@ const WebNavbar = (props) => {
                     <Router>
                         <Nav className="mr-auto" navbar>
                             <NavItem>
-                                <NavLink href="" replace activeClassName="is-active">Home</NavLink>
+                                <NavLink href="#" replace activeClassName="is-active">Home</NavLink>
                             </NavItem>
                             <NavItem>
                                 <NavLink href="#bdy">Prices</NavLink>
