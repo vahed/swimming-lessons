@@ -14,6 +14,7 @@ import Introduction from "./components/introduction";
 import Footer from "./components/footer";
 import Map from './components/map';
 import ContactForm from "./components/contactForm";
+import {MDBIcon} from "mdbreact";
 
 function App() {
   return (
@@ -25,19 +26,36 @@ function App() {
         <div className="grid-item item4"><span id="intro"><Introduction /></span></div>
         <div className="grid-item item5"></div>
 
-            <div className="grid-item item6"></div>
+            <div className="grid-item item6">
+                <span>
+                    <a href="#"><MDBIcon icon="angle-double-up" className="arrow-up1"/></a>
+                </span>
+            </div>
             <div className="grid-item item7"><span id="bdy"><Body /></span></div>
         <div className="grid-item item8"></div>
-        <div className="grid-item item9"></div>
+        <div className="grid-item item9">
+            <span>
+                    <a href="#"><MDBIcon icon="angle-double-up" className="arrow-up1"/></a>
+            </span>
+        </div>
             <div className="grid-item item10"><span id="stg"><Stage /></span></div>
         <div className="grid-item item11"></div>
-            <div className="grid-item item12"></div>
+        <div className="grid-item item12"></div>
         <div className="grid-item item13"></div>
-        <div className="grid-item item14"></div>
+        <div className="grid-item item14">
+            <span>
+                    <a href="#"><MDBIcon icon="angle-double-up" className="arrow-up2"/></a>
+            </span>
+        </div>
             <div className="grid-item item15"><span id="cform"><ContactForm/></span></div>
-        <div className="grid-item item16"></div>
+        <div className="grid-item item16">
+        </div>
             <div className="grid-item item17"><span id="loc"><Map/></span></div>
-        <div className="grid-item item18"></div>
+        <div className="grid-item item18">
+            <span>
+                    <a href="#"><MDBIcon icon="angle-double-up" className="arrow-up1"/></a>
+            </span>
+        </div>
         <Footer/>
         <div className="grid-item item20"></div>
     </div>

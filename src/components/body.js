@@ -1,6 +1,7 @@
 import React from 'react';
 import { Card, Button, CardTitle, CardText, Row, Col } from 'reactstrap';
 import "./body.css";
+import {MDBIcon} from "mdbreact";
 
 const Body = () => {
     return(

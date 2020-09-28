@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
 import "./footer.css";
-import {MDBIcon} from "mdbreact";
+import {MDBIcon,MDBBtn} from "mdbreact";
 import {Tooltip} from "reactstrap";
 
 const Footer = (props) => {
