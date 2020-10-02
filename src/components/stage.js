@@ -30,7 +30,7 @@ const Stage = () => {
 
             <Jumbotron fluid>
                 <Container fluid>
-                    <h5 className="h1_stg">SWIMMING LESSONS AT HOME/SCHOOLS</h5>
+                    <h5 className="header1">Swimming Lessons AT Home And Schools</h5>
                     <p className="p1_stg">Swimming lessons at home or in schools are becoming more and more popular these days. If you have a private pool in your school, apartment block, basement or garden, you may wish to consider our private and confidential service of professional swimming lessons conducted in the comfort of your own place.</p>
                     <p className="p1_stg">We offer a bespoke service which include kids all levels, adults beginners and intermediate . These lessons are offered on a 1-2-1, 2:1 or 3:1 basis. </p>
                     <p className="p1_stg">For school classes, we allow maximum 10 students at the time, so if you have 30 students we can divide them into 3 groups, each group get 20 minutes sessions, and we will get all the class covered in 1 hour, dependent on your needs.</p>

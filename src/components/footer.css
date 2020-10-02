@@ -21,9 +21,12 @@ i.fab.fa-instagram.inst.p-2,i.fab.fa-facebook-square{
 
 @media screen and (max-width: 500px) {
     div.main-footer h3{
-        font-size: 20px;
+        font-size: 16px;
     }
-    span.footer-phone{
-        font-size: 20px;
+    span#TooltipExample{
+        font-size: 14px;
+    }
+    p.footer-phone{
+        margin: 0 0 10px 10px;
     }
 }

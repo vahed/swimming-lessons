@@ -10,9 +10,9 @@ const Footer = (props) => {
         <div className="grid-item item19">
             <div className="main-footer">
                 <h3 className="address">
-                    Address: Hammarkulletorget 63, 424
+                    Address: Hammarkulletorget 63, 424<br/>37 Angered
                 </h3>
-                <h3>37 Angered</h3>
+                <h3></h3>
                 <hr/>
                 <div className="row">
                     <div className="d-flex flex-column">
