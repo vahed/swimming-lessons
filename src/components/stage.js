@@ -2,14 +2,10 @@ import React, { useState } from 'react';
 import { Jumbotron, Container, Collapse, Button, CardBody, Card, ListGroup, ListGroupItem  } from 'reactstrap';
 import {stages} from "../data";
 import "./stage.css";
-/* */
-/*import '@fortawesome/fontawesome-free/css/all.min.css';
-import 'mdbreact/dist/css/mdb.css';*/
 import { MDBIcon } from "mdbreact";
 
 const Stage = () => {
     const [isOpen, setIsOpen] = useState(false);
-    /*const [getStage, setStage] = useState('');*/
     const toggle = () => setIsOpen(!isOpen);
 
     return (

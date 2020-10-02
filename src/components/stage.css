@@ -1,5 +1,7 @@
 .card-body p{
     test-align: justify;
+    -webkit-appearance: none;
+    -moz-appearance: none;
 }
 li.list-group-item{
     font-size: 1rem;
