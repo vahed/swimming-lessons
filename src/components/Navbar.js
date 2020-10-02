@@ -1,6 +1,5 @@
-import React, { useState,useEffect } from 'react';
-import ReactDOM from "react-dom";
-import { BrowserRouter as Router, Route,Switch } from "react-router-dom";
+import React, { useState} from 'react';
+import { BrowserRouter as Router } from "react-router-dom";
 import "./navbar.css";
 import {
     Collapse,
@@ -10,14 +9,8 @@ import {
     Nav,
     NavItem,
     NavLink
-    /*UncontrolledDropdown,
-    DropdownToggle,
-    DropdownMenu,
-    DropdownItem,
-    NavbarText*/
 } from 'reactstrap';
-import Body from "./body";
-import Stage from "./stage";
+
 import logo from "../images/logo.jpg";
 
 const WebNavbar = (props) => {

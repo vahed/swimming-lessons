@@ -7,7 +7,7 @@ import {
 } from "react-google-maps";
 
 function MyMap(){
-    const [map, setMap] = React.useState(null)
+    const [ setMap] = React.useState(null)
 
     const onLoad = React.useCallback(function callback(map) {
         const bounds = new window.google.maps.LatLngBounds();

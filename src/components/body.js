@@ -39,14 +39,14 @@ const Body = () => {
                 </Col>
                 <Col sm="4">
                     <Card body>
-                        <CardTitle>Notice</CardTitle>
+                        <CardTitle>Adult one to one</CardTitle>
                         <CardText>330KR per class (30 minutes)</CardText>
                         <Button><a href="https://forms.app/gesschool/gess-registeration-form">Book</a></Button>
                     </Card>
                 </Col>
                 <Col sm="4">
                     <Card body>
-                        <CardTitle>Children all levels</CardTitle>
+                        <CardTitle>Notice</CardTitle>
                         <CardText>prices include entrance fees</CardText>
                         <Button><a href="https://forms.app/gesschool/gess-registeration-form">Book</a></Button>
                     </Card>
