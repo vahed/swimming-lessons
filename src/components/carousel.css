@@ -4,6 +4,8 @@
 }
 
 .font_0 h3{
-    font: normal normal normal 34px/1.4em helveticaneuew01-thin,helveticaneuew02-thin,helveticaneuew10-35thin,sans-serif;
-    color: #f7f3f2;
+    /*font: normal normal normal 34px/1.4em helveticaneuew01-thin,helveticaneuew02-thin,helveticaneuew10-35thin,sans-serif;*/
+    font-family: monospace;
+    font-weight: 700;
+    color: white;
 }

@@ -23,10 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_09_2020__18_22__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_09_2020__18_22__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/contactForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contactForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +105,7 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -152,6 +154,7 @@
       <workItem from="1600855152001" duration="6671000" />
       <workItem from="1601228546082" duration="3696000" />
       <workItem from="1601290973465" duration="4583000" />
+      <workItem from="1601561986922" duration="8014000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <created>1599300191429</created>
@@ -164,7 +167,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -258,9 +261,10 @@
     </state>
     <state x="1329" y="497" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1152@0.0.2048.1152" timestamp="1598032227925" />
     <state x="1329" y="476" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2048.1049@0.23.2048.1049" timestamp="1600444608962" />
-    <state x="722" y="208" width="604" height="735" key="find.popup" timestamp="1600264603788">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state x="482" y="124" width="555" height="530" key="find.popup" timestamp="1601628988142">
+      <screen x="0" y="0" width="1366" height="687" />
     </state>
+    <state x="482" y="124" width="555" height="530" key="find.popup/0.0.1366.687@0.0.1366.687" timestamp="1601628988142" />
     <state x="722" y="208" width="604" height="735" key="find.popup/0.0.2048.1152@0.0.2048.1152" timestamp="1600264603788" />
     <state x="1010" y="267" key="git4idea.branch.GitSmartOperationDialog" timestamp="1595428100003">
       <screen x="0" y="23" width="2048" height="1049" />

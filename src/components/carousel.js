@@ -19,13 +19,13 @@ const items = [
         id: 2,
         src: require("../images/swim30.jpg"),
         altText: 'Slide 2',
-        caption: 'Choose The Class Which is Suitable For You'
+        caption: 'GESS is fun, safe and an exciting place to train'
     },
     {
         id: 3,
         src: require("../images/swim31.jpg"),
         altText: 'Slide 3',
-        caption: 'Choose The Class Which is Suitable For You'
+        caption: 'Allow us to make water a safe place for your children'
     }
 ];
 
@@ -61,7 +61,7 @@ const ImageCarousel = (props) => {
                 onExited={() => setAnimating(false)}
             >
                 <img className="image-responsive" src={item.src} alt={item.altText} />
-                <CarouselCaption className="font_0" captionText={item.altText} captionHeader={item.caption} />
+                <CarouselCaption className="font_0" captionText="" captionHeader={item.caption} />
             </CarouselItem>
         );
     });

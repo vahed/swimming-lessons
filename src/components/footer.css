@@ -1,4 +1,3 @@
-
 .main-footer h3{
     font-family: "Apple Braille" !important;
     color: #fcedd8 !important;
@@ -10,10 +9,11 @@
     text-align: left !important;
 }
 .footer-phone{
-    font-size: 30px;
+    font-size: 24px;
     font-family: margin-top;
     color: #fcedd8;
     margin-left: 1rem;
+    margin-top: 0px;
 }
 i.fab.fa-instagram.inst.p-2,i.fab.fa-facebook-square{
     color:#111;

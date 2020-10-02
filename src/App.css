@@ -110,10 +110,20 @@ button.stageButton.btn.btn-primary:hover {
 .card-body{
     background-color: #fcedd8;
 }
-.arrow-up1,.arrow-up2{
+.arrow-up1,.arrow-up2,.arrow-up3,.arrow-up4{
     position: relative;
-    top: 40px;
+}
+.arrow-up1{
+    top: 38px;
 }
 .arrow-up2{
+    top: 30px;
+}
+.arrow-up3{
     top: 55px;
+}
+.arrow-up4{
+    top: 25px;
+    color: white;
+    background-color: inherit;
 }
