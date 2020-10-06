@@ -19,7 +19,7 @@ const ContactForm = () => {
                                 </h3>
                             </MDBCardHeader>
 
-                            <form name="contact" method="post" data-netlify="true">
+                            <form name="contact" action="/contact" method="post">
                                 <label htmlFor="defaultFormContactNameEx" className="grey-text">
                                     Your name
                                 </label>
