@@ -17,17 +17,12 @@ const ContactForm = () => {
                                     <MDBIcon icon="envelope" /> Email Us:
                                 </h3>
                             </MDBCardHeader>
-                            <form name="contact" netlify netlify-honeypot="bot-field" hidden>
-                                <input type="text" name="name" />
-                                <input type="email" name="email" />
-                                <input type="email" name="phone" />
-                                <textarea name="message"></textarea>
-                            </form>
+
                             <form
                                 name="contact v1"
                                 method="post"
                                 data-netlify="true"
-                                onSubmit="submit"
+                                netlify
                             >
                                 <input type="hidden" name="form-name" value="contact v1" />
                                 <label htmlFor="defaultFormContactNameEx" className="grey-text">

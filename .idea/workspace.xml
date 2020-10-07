@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="54dedf98-fc84-4ef7-8fd1-1651b1277908" name="Default Changelist" comment="Initialize project using Create React App">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +152,7 @@
       <workItem from="1601290973465" duration="4583000" />
       <workItem from="1601561986922" duration="17263000" />
       <workItem from="1601973560260" duration="3370000" />
-      <workItem from="1602067653222" duration="3810000" />
+      <workItem from="1602067653222" duration="4678000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <created>1599300191429</created>
