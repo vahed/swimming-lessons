@@ -45,22 +45,7 @@ function App() {
                     <a href="/"><MDBIcon icon="home" className="arrow-up3"/></a>
             </span>
             </div>
-            <div className="grid-item item15"><span id="cform">
-                    <form name="contact" method="post">
-          <p>
-            <label>Your Name: <input type="text" name="name"/></label>
-          </p>
-          <p>
-            <label>Your Email: <input type="email" name="email"/></label>
-          </p>
-          <p>
-            <label>Message: <textarea name="message"></textarea></label>
-          </p>
-          <p>
-            <button type="submit">Send</button>
-          </p>
-        </form>
-            </span></div>
+            <div className="grid-item item15"><span id="cform"><ContactForm/></span></div>
             <div className="grid-item item16">
             </div>
             <div className="grid-item item17"><span id="loc"><Map/></span></div>
