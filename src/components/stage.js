@@ -12,7 +12,7 @@ const Stage = () => {
 
         <div className="stageBlock">
             <h4>Find the stage suitable to your need</h4>
-            <Button className="stageButton" color="primary" onClick={toggle} style={{ marginBottom: '1rem' }}><MDBIcon icon="swimmer" size="1g" className="cyan-text pr-3" />Stages</Button>
+            <Button className="stageButton" color="primary" onClick={toggle} style={{ marginBottom: '1rem' }}><MDBIcon icon="swimmer" size="1g" className="cyan-text pr-3" />Click Here for Stages' Information</Button>
             <Collapse isOpen={isOpen}>
                 <Card>
                     <CardBody>

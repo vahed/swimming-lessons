@@ -13,6 +13,8 @@ import Footer from "./components/footer";
 import Map from './components/map';
 import ContactForm from "./components/contactForm";
 import {MDBIcon} from "mdbreact";
+import "./App.scss";
+import Video from "./components/video";
 
 function App() {
     return (
@@ -45,7 +47,9 @@ function App() {
                     <a href="/"><MDBIcon icon="home" className="arrow-up3"/></a>
             </span>
             </div>
-            <div className="grid-item item15"><span id="cform"><ContactForm/></span></div>
+            <div className="grid-item item15">
+                    <span id="video"><Video/></span>
+            </div>
             <div className="grid-item item16">
             </div>
             <div className="grid-item item17"><span id="loc"><Map/></span></div>

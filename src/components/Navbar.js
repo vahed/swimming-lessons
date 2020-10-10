@@ -28,16 +28,16 @@ const WebNavbar = (props) => {
                                 <NavLink href="/" >Home</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#bdy">Prices</NavLink>
+                                <NavLink href="/#bdy">Prices</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#stg">Stages</NavLink>
+                                <NavLink href="/#stg">Stages</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#cform">Enquiry</NavLink>
+                                <NavLink href="/#video">Explore</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#loc">Location</NavLink>
+                                <NavLink href="/#loc">Location</NavLink>
                             </NavItem>
                             <NavItem>
                                 <NavLink href="https://forms.app/gesschool/gess-registeration-form">Register</NavLink>
